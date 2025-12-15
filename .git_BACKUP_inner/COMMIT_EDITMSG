@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   app/page.tsx
+#	modified:   package-lock.json
+#	modified:   package.json
+#	new file:   "pdf/\340\271\201\340\270\232\340\270\232\340\270\235\340\270\266\340\270\201\340\270\253\340\270\261\340\270\224 IP Address.pdf"
+#	new file:   "pdf/\340\271\203\340\270\232\340\270\233\340\270\243\340\270\260\340\270\201\340\270\262\340\270\250.pdf"
+#
+# Changes not staged for commit:
+#	modified:   app/page.tsx
+#	deleted:    "pdf/\340\271\201\340\270\232\340\270\232\340\270\235\340\270\266\340\270\201\340\270\253\340\270\261\340\270\224 IP Address.pdf"
+#	deleted:    "pdf/\340\271\203\340\270\232\340\270\233\340\270\243\340\270\260\340\270\201\340\270\262\340\270\250.pdf"
+#
+# Untracked files:
+#	public/pdf/
+#
