@@ -836,7 +836,7 @@ export default function Home() {
                   <PDFCard
                   title="lab1.1.pdf"
                   desc="พรีวิวในหน้า + ดาวน์โหลดไฟล์ PDF"
-                  href="/pdf/ใlab1.1.pdf"
+                  href="/pdf/lab1.1.pdf"
                   accent="from-fuchsia-600 to-purple-600"
                 />
               </div>
